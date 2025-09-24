@@ -8,7 +8,7 @@ import numpy as np
 from core import time_handling
 from core import err_handler
 
-FORCE_COUNT = 23
+FORCE_COUNT = 26
 
 class ConfigOptions:
     """
