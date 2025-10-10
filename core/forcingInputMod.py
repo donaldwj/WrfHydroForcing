@@ -336,7 +336,9 @@ class input_forcings:
                 'UGRD_10maboveground', 'VGRD_10maboveground',
                 'APCP_surface', 'DSWRF_surface', 'DLWRF_surface',
                 'PRES_surface', 'CPOFP_surface'],
-            
+            6: ['2 m above ground', '2 m above ground',
+                '10 m above ground', '10 m above ground',
+                'surface', 'surface', 'surface', 'surface', 'surface'],
             7: ['TMP_2maboveground', 'SPFH_2maboveground',
                 'UGRD_10maboveground', 'VGRD_10maboveground',
                 'PRATE_surface', 'DSWRF_surface', 'DLWRF_surface',
