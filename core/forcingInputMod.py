@@ -144,6 +144,7 @@ class input_forcings:
             24: "RRFS NA 3km",
             25: "RRFS HI 2.5km",
             26: "RRFS PR 2.5km"
+
         }
         self.productName = product_names[self.keyValue]
 
@@ -207,7 +208,6 @@ class input_forcings:
             24: 60,
             25: 60,
             26: 60
-
         }
         self.cycleFreq = cycle_freq_minutes[self.keyValue]
 
